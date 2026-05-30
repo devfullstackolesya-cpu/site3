@@ -1,0 +1,38 @@
+table {
+    border: aquamarine 1px solid;
+    width: 80%;
+}
+
+td {
+    border: aqua 1px solid;
+    height: 200px;
+
+}
+
+.picture1 {
+    background-image: url(../img/picture1.jpg);
+    background-repeat: no-repeat;
+    font: size 45px;
+    background-size: cover;
+}
+
+.picture2 {
+    background-image: url(../img/picture2.JPG);
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: cover;
+}
+
+.picture11 {
+    background-image: url(../img/picture1.jpg);
+    background-repeat: no-repeat;
+    font: size 45px;
+    background-size: contain;
+}
+
+.picture22 {
+    background-image: url(../img/picture2.JPG);
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: contain;
+}

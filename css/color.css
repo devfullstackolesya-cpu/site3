@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+}
+
+table {
+    border: solid black 1px;
+    width: 80%;
+}
+
+td {
+    border: solid black 1px;
+    height: 100px;
+}
+
+.color {
+    background-color: rgb(254, 14, 54);
+    font-size: 2em;
+}
+
+.color2 {
+    background-color: #00151f;
+    font-size: 2em;
+    color: white;
+}
+
+.displayBlock {
+    /* display: block; */
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.displayNone {
+    display: none;
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.opacity1 {
+    opacity: 1;
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.opacity0 {
+    opacity: 0;
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.opacity05 {
+    opacity: 0.5;
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.opacity02 {
+    opacity: 0.2;
+    background-color: #04ff00;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.rgba {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.gradient {
+    background: linear-gradient(90deg, red, yellow, orange);
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+.radialGradient {
+    background: radial-gradient(red, yellow);
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}

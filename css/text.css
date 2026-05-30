@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+    color: brown
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.textDecoration {
+    text-decoration: underline;
+}
+
+.textDecorationNone {
+    text-decoration: none;
+}
+
+.textDecorationOverline {
+    text-decoration: overline;
+}
+
+.textDecorationlineThrough {
+    text-decoration: line-through;
+}
+
+.leterSpacing {
+    letter-spacing: 30px;
+}
+
+.lineHeight {
+    line-height: 40px;
+    word-wrap: break-word;
+}

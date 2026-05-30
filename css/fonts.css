@@ -1,0 +1,70 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap'); */
+
+@font-face {
+    font-family: 'Terminator Cyr';
+    src: url('../fonts/terminatorcyr_semi_expandedbold.ttf');
+}
+
+
+.bigfont {
+    font-size: 50px;
+    color: blueviolet;
+}
+
+.bigfont2 {
+    font-size: 2em;
+    color: blueviolet;
+}
+
+.size1em {
+    font-size: 1em;
+    color: brown;
+}
+
+.size2em {
+    font-size: 2em;
+    color: rgb(255, 0, 0);
+}
+
+.size3em {
+    font-size: 3em;
+    color: rgb(255, 231, 53);
+}
+
+.size1emc {
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 900;
+    color: brown;
+}
+
+
+.size2emc {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 900;
+    color: rgb(255, 0, 0);
+}
+
+.size3emc {
+    font-size: 3em;
+    font-style: italic;
+    font-weight: 900;
+    color: rgb(255, 231, 53);
+}
+
+.fontfamily {
+    font-family: "Bitcount Grid Double Ink", system-ui;
+}
+
+.fontFamilyFolder {
+    font-size: 2em;
+    font-style: italic;
+    font-family: "Pacifico", cursive;
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
+
+.terminator {
+    font-size: 2em;
+    font-family: "Terminator Cyr";
+}
